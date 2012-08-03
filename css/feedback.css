@@ -1,0 +1,16 @@
+#main {
+	background: red;
+}
+
+.btn-feedback {
+	position: absolute;
+	right: 100px;
+	top: -5px;
+	padding-top: 7px;
+	-webkit-transition: all 0.25s;
+}
+
+.btn-feedback:hover {	
+	-webkit-transition: all 0.25s;
+	padding-top: 20px;
+}
